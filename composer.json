@@ -1,0 +1,17 @@
+{
+  "name": "romkamix/xml-iterator",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "romkamix",
+      "email": "romkamix@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Romkamix\\XmlIterator\\": "src/"
+    }
+  }
+}
