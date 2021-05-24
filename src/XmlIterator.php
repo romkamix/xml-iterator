@@ -1,6 +1,6 @@
 <?php
 
-namespace Romkamix\XmlIterator;
+namespace Romkamix;
 
 use Iterator;
 use DOMDocument;
